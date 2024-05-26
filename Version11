@@ -1,8 +1,8 @@
 {
-    "versionCode":14,
-    "versionName":"14.0.0",
-    "contentText":"•New Version -  V14.0
-•Update Date  -  1st May
+    "versionCode":15,
+    "versionName":"15.0.0",
+    "contentText":"•New Version -  V15.0
+•Update Date  -  26th May
 •Bug Fixes and Performance improvements.
 •Fast and Stable
 •Support Android 6 to 14
@@ -11,10 +11,15 @@
 
 ➖➖➖➖➖➖➖➖➖➖
 📲 What's New:
-New Hotspot Share
-Custom Server will no longer removed after update
-Config Message support html and link
-UDP Stable Connection",
+New UI
+Host To IP
+Host Checker
+
+
+All old configs not supported
+Old Version Will stop working ..
+
+Kindly Update Your App To Latest Version",
     "minSupport":21,
-    "url":"https://github.com/Nazzy0/24VPN/releases/download/v14.0.0/24VPN.apk"
+    "url":"https://github.com/Nazzy0/24VPN/releases/download/v15.0.0/24VPN.apk"
 }
