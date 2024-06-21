@@ -1,19 +1,14 @@
 {
-    "versionCode":16,
-    "versionName":"16.0.0",
-    "contentText":"•New Version -  V16.0
-•Update Date  -  7th June
-•Bug Fixes and Performance improvements.
-•Fast and Stable
-•Support Android 6 to 14
-•Please Update To latest Version.
-•Update to avoid connecting error.
+    "versionCode":17,
+    "versionName":"17.0.0",
+    "contentText":"Changelog:
+- Performance Improved!!
+- Cloud Config:
+  - Burn After Read
+  - Export Minutes
+  - Code Usage Limit
 
-➖➖➖➖➖➖➖➖➖➖
-📲 What's New:
-Export Custom Server
-Data usage for v2ray and udp fixed
-Connection Errors Fixed",
-    "minSupport":21,
-    "url":"https://github.com/Nazzy0/24VPN/releases/download/v16.0.0/24VPN.apk"
+Note: All old configs will no longer work in the new version! Kindly update your app!!!",
+    "minSupport":23,
+    "url":"https://github.com/Nazzy0/24VPN/releases/download/v17.0.0/24VPN.apk"
 }
