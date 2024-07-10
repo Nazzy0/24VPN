@@ -1,14 +1,17 @@
 {
-    "versionCode":17,
-    "versionName":"17.0.0",
-    "contentText":"Changelog:
-- Performance Improved!!
-- Cloud Config:
-  - Burn After Read
-  - Export Minutes
-  - Code Usage Limit
+    "versionCode":18,
+    "versionName":"18.0.0",
+    "contentText":"● Architecture : Universal 
+● Version : 18.0.0 (18)
 
-Note: All old configs will no longer work in the new version! Kindly update your app!!!",
+❏ Changelog:
+● DNS not browsing fixed
+● Custom V2Ray Vmess & Vless
+● Clean & Optimize
+
+Android 14 Working ✅💯
+
+Recommend to clear data after installing",
     "minSupport":23,
-    "url":"https://github.com/Nazzy0/24VPN/releases/download/v17.0.0/24VPN.apk"
+    "url":"https://github.com/Nazzy0/24VPN/releases/download/v18.0.0/24VPN.apk"
 }
