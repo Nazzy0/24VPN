@@ -1,16 +1,17 @@
 {
-    "versionCode":19,
-    "versionName":"19.0.0",
+    "versionCode":20,
+    "versionName":"20.0.0",
     "contentText":"● Architecture : Universal 
-● Version : 19.0.0 (19)
+● Version : 20.0.0 (20)
 
 ❏ Changelog:
-● Custom V2Ray Vmess & Vless
+●Settings returning to default fixed
+●Tweaks filter based on your country 
 ● Clean & Optimize
 
 Android 14 Working ✅💯
 
 Recommend to clear data after installing",
     "minSupport":23,
-    "url":"https://github.com/Nazzy0/24VPN/releases/download/v19.0.0/24VPN.apk"
+    "url":"https://github.com/Nazzy0/24VPN/releases/download/v20.0.0/24VPN.apk"
 }
