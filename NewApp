@@ -1,17 +1,15 @@
 {
-    "versionCode":20,
-    "versionName":"20.0.0",
+    "versionCode":21,
+    "versionName":"21.0.0",
     "contentText":"● Architecture : Universal 
-● Version : 20.0.0 (20)
+● Version : 21.0.0 (21)
 
 ❏ Changelog:
-●Settings returning to default fixed
-●Tweaks filter based on your country 
-● Clean & Optimize
+●Some bugs fixed
+●Performance Improved 
+●Clean & Optimize
 
-Android 14 Working ✅💯
-
-Recommend to clear data after installing",
+Android 14 Working ✅💯",
     "minSupport":23,
-    "url":"https://github.com/Nazzy0/24VPN/releases/download/v20.0.0/24VPN.apk"
+    "url":"https://github.com/Nazzy0/24VPN/releases/download/v21.0.0/24VPN.apk"
 }
